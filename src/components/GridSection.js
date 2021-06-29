@@ -23,6 +23,8 @@ export default class GridSection extends React.Component {
         const gridGapX = _.get(section, 'grid_gap_horiz', 'medium');
         const gridGapY = _.get(section, 'grid_gap_vert', 'medium');
 
+        thing dajdioAJWDIOJ 
+
         return (
             <section
                 id={sectionId}
